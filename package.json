@@ -12,6 +12,9 @@
         "prepare": "husky",
         "test": "jest --watch --runInBand"
     },
+    "nodemonConfig": {
+        "legacyWatch": true
+    },
     "lint-staged": {
         "*.ts": [
             "npm run format:fix",
