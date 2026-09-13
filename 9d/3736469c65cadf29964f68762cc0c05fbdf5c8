@@ -1,0 +1,19 @@
+.dockerignore
+  h_8bc4f3d6bd21bd 1-4
+docker/dev/Dockerfile
+  h_8bc4f3d6bd21bd 1-20
+package.json
+  h_8bc4f3d6bd21bd 15-16
+  h_8bc4f3d6bd21bd 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9d3736469c65cadf29964f68762cc0c05fbdf5c8",
+  "prompts": {},
+  "humans": {
+    "h_8bc4f3d6bd21bd": {
+      "author": "amartya149 <amartya970914@gmail.com>"
+    }
+  }
+}
